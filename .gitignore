@@ -1,7 +1,7 @@
 node_modules
 .env
 .env.enc
-.README_PRIVATE.md
+README_PRIVATE.md
 
 .idea
 .DS_Store
