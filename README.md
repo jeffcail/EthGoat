@@ -63,3 +63,12 @@ npx hardhat interact_ethgoat --network sepolia
 ```shell
 npx hardhat run scripts/deployEthGoat.js --network sepolia
 ```
+
+## 单测
+<a href="https://mochajs.org/" target="_blank">mochajs</a>
+<a href="https://www.chaijs.com/" target="_blank">chaijs.com</a>
+
+```shell
+npx hardhat test
+```
+·
